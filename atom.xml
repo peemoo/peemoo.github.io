@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://peemoo.github.io/"/>
-  <updated>2019-03-16T09:32:58.104Z</updated>
+  <updated>2019-03-16T12:12:15.228Z</updated>
   <id>https://peemoo.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://peemoo.github.io/p/5772.html"/>
     <id>https://peemoo.github.io/p/5772.html</id>
     <published>2019-03-05T16:46:39.000Z</published>
-    <updated>2019-03-16T09:32:58.104Z</updated>
+    <updated>2019-03-16T12:12:15.228Z</updated>
     
     <content type="html"><![CDATA[<p>Hello,World!</p>]]></content>
     
@@ -34,6 +34,8 @@
       
     
     </summary>
+    
+      <category term="technique" scheme="https://peemoo.github.io/categories/technique/"/>
     
     
       <category term="Technique" scheme="https://peemoo.github.io/tags/Technique/"/>
