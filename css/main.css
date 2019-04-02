@@ -1350,7 +1350,7 @@ pre .javascript .function {
   webkit-transition: 1.4s all;
   moz-transition: 1.4s all;
   ms-transition: 1.4s all;
-  transition: 1.4s all;
+  transition: 0.5s all;
 }
 .posts-expand .post-body .fancybox img {
   margin: 0 auto 25px;
@@ -1835,7 +1835,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #c67354;
+  background: #f1ff3b;
 }
 .links-of-blogroll {
   font-size: 13px;
