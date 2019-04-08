@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://peemoo.github.io/"/>
-  <updated>2019-03-19T02:23:08.402Z</updated>
+  <updated>2019-04-08T07:05:18.427Z</updated>
   <id>https://peemoo.github.io/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>做一个给自己用的网站导航页</title>
+    <link href="https://peemoo.github.io/p/90ee.html"/>
+    <id>https://peemoo.github.io/p/90ee.html</id>
+    <published>2019-04-08T05:46:07.000Z</published>
+    <updated>2019-04-08T07:05:18.427Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>首先要做一个给自己用的网站导航页那当然首先要建立一个自己的小站。这个想法（指建立小站）最开始这个想法的萌芽是在初三暑假的时候冒出来的，但一直没怎么实施，一方面是因为懒，另一方面是不知从何下手，那时候翻墙技术也不熟练，属于很少需要翻墙，想翻了也能随随便便就找到可用的免费VPN（例如安卓的翻墙路由器，又例如轮子的自由门什么的），后来和 <a href="kotori.moe">鸟站</a> 的站长成功py了一波才获得了一个稍微稳定点的收费的ss服务，还是特别感谢鸟站站长！然后才开始逐渐接触GitHub，按着网上随便搜到的教程对着几乎全英和程序专业名词的页面建立了一个GitHub账号。然后就因为某个点卡住了进程，那时候最远的路也就走到了能成功在本地 localhost:4000/ 里显示hexo默认页面。然后这个想法就一直被我搁置到了我大二的时候买surface pro6。现在终于是实现了，主要也是因为自己的专业原因，以及见识广阔了许多，网络墙外生活也日渐丰富，姿势水平也日渐提升，至少教程是能看懂也明白为什么那么做了（大概？）。建好自己的小站之后也恰好发现在edge下的导航页十分难用，所以心里就萌生了自己造一个的想法。</p><h1 id="搭建小站"><a href="#搭建小站" class="headerlink" title="搭建小站"></a>搭建小站</h1><p>首先特别鸣谢雾之大佬的教程，我的小站几乎就是按照<a href="https://kirikirino.github.io/p/f1e.html" target="_blank" rel="noopener">这个教程</a>克隆级别的建了起来。大佬给的教程已经十分完善，此处不再多赘述。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h1&gt;&lt;p&gt;首先要做一个给自己用的网站导航页那当然首先要建立一个自己的小站。这个想法（指建立小站）最开始这个想法的萌芽是在初三暑假的时候冒出来的，但一直
+      
+    
+    </summary>
+    
+      <category term="technique" scheme="https://peemoo.github.io/categories/technique/"/>
+    
+    
+      <category term="Technique" scheme="https://peemoo.github.io/tags/Technique/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello,World!</title>
